@@ -4,9 +4,9 @@ function myFunction() {
   x = document.getElementById("myText").value;
 
   if (x=="students") {
-  window.location.replace("")
+  window.location.replace("https://seven203190709.github.io/jingzhe5/course.html")
   } else if (x=="parents"){
-  window. location.replace("")
+  window. location.replace("https://seven203190709.github.io/jingzhe5/index.html")
   
   }
   else if (x!="students"){
